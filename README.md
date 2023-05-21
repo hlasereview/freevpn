@@ -11,7 +11,7 @@
 </thead>
 <tbody>
 <tr>
-<td>v2ray</td>
+<td>Trojan</td>
 <td><a href="https://github.com/2dust/v2rayNG/releases/download/1.6.28/v2rayNG_1.6.28_arm64-v8a.apk">v2rayNG</a></td>
 <td><a href="https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip">v2rayN</a></td>
 </tr>
